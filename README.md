@@ -546,3 +546,5 @@ _Ports and adapters_ are very close to _Clean Architecture_, the differences are
 
 - [The Clean Architecture article](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Twelve factors](https://12factor.net/ru/)
+
+<!-- Zof Database migrations run 2 (17 Nov 2026): a README-only change, so this pull request adds no migration. -->
